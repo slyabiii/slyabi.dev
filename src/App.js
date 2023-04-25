@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 
 const App= () => {
     return(
-        <div className="text-center">
+        <div className="text-center flex">
                 <Navbar/>
 
             <h1 className="text-5xl font-hel">HI THERE</h1>
