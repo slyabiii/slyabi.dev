@@ -1,7 +1,7 @@
 {
   "name": "slyabi.dev",
   "version": "0.1.0",
-  "homepage": "https://slyabiii.github.io/slyabi.dev",
+  "homepage": "https://slyabiii.github.io/slyabi.dev/",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
