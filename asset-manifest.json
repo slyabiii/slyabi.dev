@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/slyabi.dev/static/css/main.df64cf46.css",
-    "main.js": "/slyabi.dev/static/js/main.26c4b3a9.js",
+    "main.css": "/slyabi.dev/static/css/main.4aed0e99.css",
+    "main.js": "/slyabi.dev/static/js/main.9402fcd2.js",
     "static/media/fox-min.png": "/slyabi.dev/static/media/fox-min.c52b648cd6d55efb5815.png",
     "static/media/helvetica-neu.ttf": "/slyabi.dev/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/slyabi.dev/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/slyabi.dev/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/slyabi.dev/index.html",
-    "main.df64cf46.css.map": "/slyabi.dev/static/css/main.df64cf46.css.map",
-    "main.26c4b3a9.js.map": "/slyabi.dev/static/js/main.26c4b3a9.js.map"
+    "main.4aed0e99.css.map": "/slyabi.dev/static/css/main.4aed0e99.css.map",
+    "main.9402fcd2.js.map": "/slyabi.dev/static/js/main.9402fcd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.df64cf46.css",
-    "static/js/main.26c4b3a9.js"
+    "static/css/main.4aed0e99.css",
+    "static/js/main.9402fcd2.js"
   ]
 }
